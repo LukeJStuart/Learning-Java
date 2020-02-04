@@ -1,7 +1,7 @@
 // Setting the package
 // Note that the package name should be in lower case
 // to avoid conflict with class names.
-package mypack;
+//package mypack;
 
 class MyPackageClass {
     public static void main(String[] args) {
